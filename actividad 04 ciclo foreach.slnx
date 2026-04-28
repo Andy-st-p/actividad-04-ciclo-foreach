@@ -1,4 +1,11 @@
 <Solution>
   <Project Path="01/01.csproj" />
+  <Project Path="02/02.csproj" />
+  <Project Path="03/03.csproj" />
+  <Project Path="04/04.csproj" />
+  <Project Path="05/05.csproj" />
+  <Project Path="06/06.csproj" />
+  <Project Path="07/07.csproj" />
+  <Project Path="08/08.csproj" />
   <Project Path="actividad 04 ciclo foreach/actividad 04 ciclo foreach.csproj" />
 </Solution>
