@@ -10,5 +10,9 @@
   <Project Path="09/09.csproj" />
   <Project Path="10/10.csproj" Id="43b70519-2b3d-4af2-9416-493f9819e060" />
   <Project Path="11/11.csproj" Id="f973cf5a-3408-41ae-ba13-081df68ca78a" />
+  <Project Path="12/12.csproj" Id="13f57fef-4b22-4d62-a1c0-d8ac1aa8abb3" />
+  <Project Path="13/13.csproj" Id="0d9c2d69-efa1-4bd6-866a-82a3d0e9f417" />
+  <Project Path="14/14.csproj" Id="4225df3f-dd78-45d0-bf26-9d3306296c86" />
+  <Project Path="15/15.csproj" Id="933cfc24-409a-4240-8dc4-c4793208f124" />
   <Project Path="actividad 04 ciclo foreach/actividad 04 ciclo foreach.csproj" />
 </Solution>
